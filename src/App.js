@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
-import YourComponent from './YourComponent';
-
+import YourComponent from './YourComponent.js';
+import GetCoordinates from './GetCoordinates'
 export default class App extends Component {
   render() {
     return (
